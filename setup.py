@@ -23,26 +23,7 @@ def get_requirements(filename):
 
 
 setup(
-    name="latest_user_agent",
-    version="0.1.1",
-    url="https://github.com/rahulsrma26/latest-user-agent",
-    license="MIT",
-    author="Rahul Sharma",
-    author_email="welcometors@gmail.com",
-    description="A small package to generate user-agents",
+    version="0.1.3",
     long_description=read("README.rst"),
-    packages=find_packages(where="src"),
     install_requires=get_requirements('requirements.txt'),
-    classifiers=[
-        "Development Status :: 2 - Pre-Alpha",
-        "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python",
-        "Programming Language :: Python :: 2",
-        "Programming Language :: Python :: 2.7",
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.4",
-        "Programming Language :: Python :: 3.5",
-        "Programming Language :: Python :: 3.6",
-        "Programming Language :: Python :: 3.7",
-    ],
 )
