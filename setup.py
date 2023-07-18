@@ -24,7 +24,7 @@ def get_requirements(filename):
 
 setup(
     name="latest_user_agent",
-    version="0.1.0",
+    version="0.1.1",
     url="https://github.com/rahulsrma26/latest-user-agent",
     license="MIT",
     author="Rahul Sharma",
