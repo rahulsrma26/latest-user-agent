@@ -10,6 +10,10 @@ Usage
 Installation
 ------------
 
+```sh
+pip install git+https://github.com/rahulsrma26/latest-user-agent
+```
+
 Requirements
 ^^^^^^^^^^^^
 

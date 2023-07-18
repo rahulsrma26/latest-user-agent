@@ -31,7 +31,7 @@ setup(
     author_email="welcometors@gmail.com",
     description="A small package to generate user-agents",
     long_description=read("README.rst"),
-    packages=find_packages(exclude=("tests",)),
+    packages=find_packages(where="src"),
     install_requires=get_requirements('requirements.txt'),
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
