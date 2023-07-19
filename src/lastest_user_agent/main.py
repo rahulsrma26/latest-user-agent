@@ -88,9 +88,3 @@ class UserAgentManager:
             if item.user_agent != ua.user_agent:
                 q.put(item)
         self.q = q
-
-
-# uam = UserAgentManager()
-# while (cmd := input()) != "q":
-#     ua = uam.pooled(gap=3)
-#     print(uam.q.qsize(), ua)
