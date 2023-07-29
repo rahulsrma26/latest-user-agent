@@ -17,9 +17,7 @@ jobs:
       run: pip install -r scripts/requirements.txt
     - name: Fetch latest user-agents
       run: python scripts/generate_user_agents.py -o data/top_user_agents.csv
-    - name: Update resources
-      uses: test-room-7/action-update-file@v1
+    - name: Commit & Push changes
+      uses: actions-js/push@master
       with:
-        file-path: data/top_user_agents.csv
-        commit-msg: Updated user-agents
         github-token: ${{ secrets.GITHUB_TOKEN }}
