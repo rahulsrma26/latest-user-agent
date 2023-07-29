@@ -1,0 +1,24 @@
+name: Resources
+on:
+  schedule:
+  - cron: "0 0 0 ? * TUE *"
+jobs:
+  resources:
+    name: Update user-agents
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip' # caching pip dependencies
+    - name: Installing requirements
+      run: pip install -r scripts/requirements.txt
+    - name: Fetch latest user-agents
+      run: python scripts/generate_user_agents.py -o data/top_user_agents.csv
+    - name: Update resources
+      uses: test-room-7/action-update-file@v1
+      with:
+        file-path: data/top_user_agents.csv
+        commit-msg: Updated user-agents
+        github-token: ${{ secrets.GITHUB_TOKEN }}
