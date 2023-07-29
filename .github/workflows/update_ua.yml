@@ -22,8 +22,8 @@ jobs:
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
         author_name: GeneratorAction[bot]
         author_email: rahulsrma26-GeneratorBot@users.noreply.github.com
-        force: true
+#         force: true
