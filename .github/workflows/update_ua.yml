@@ -1,7 +1,7 @@
 name: Resources
 on:
   schedule:
-  - cron: "0 0 0 ? * TUE *"
+  - cron: '0 0 * * 2'
 jobs:
   resources:
     name: Update user-agents
