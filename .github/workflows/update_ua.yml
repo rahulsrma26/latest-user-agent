@@ -3,6 +3,8 @@ on:
   workflow_dispatch:
   schedule:
   - cron: '0 0 * * 2'
+env:
+  prepo: ${{ github.repository }}
 jobs:
   resources:
     name: Update user-agents
@@ -21,3 +23,7 @@ jobs:
       uses: actions-js/push@master
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+        author_name: GeneratorAction[bot]
+        author_email: rahulsrma26-GeneratorBot@users.noreply.github.com
+        force: true
