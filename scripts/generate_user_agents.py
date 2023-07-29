@@ -59,7 +59,9 @@ def fetch_content(link: str) -> BeautifulSoup:
         return None
 
 
-def get_all_user_agents(browser: Browser, limit: int = 100) -> List[list]:
+def get_all_user_agents(
+    browser: Browser, limit: int = 100, disable: bool = False
+) -> List[list]:
     content = fetch_content(f"/pages/{browser.value}/")
     user_agents = [
         (a.text, a["href"])
@@ -67,7 +69,7 @@ def get_all_user_agents(browser: Browser, limit: int = 100) -> List[list]:
         if a["href"].startswith("/")
     ]
     ua_list = []
-    for ua, link in tqdm(user_agents[:limit], desc=browser.value):
+    for ua, link in tqdm(user_agents[:limit], desc=browser.value, disable=disable):
         first, last = fetch_dates(fetch_content(link))
         if first and last:
             ua_list.append([browser.value, ua, str(first), str(last)])
@@ -95,9 +97,18 @@ def main():
         default=100,
         help="limit number of entries to process per browser",
     )
+    parser.add_argument(
+        "-s",
+        "--silent",
+        action="store_true",
+        help="Hide progress bar",
+    )
     args = parser.parse_args()
 
-    data = [get_all_user_agents(n, limit=args.limit) for n in Browser.all()]
+    data = [
+        get_all_user_agents(n, limit=args.limit, disable=args.silent)
+        for n in Browser.all()
+    ]
     df = pd.concat(data)
     df.to_csv(args.output, index=False)
 
