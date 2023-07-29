@@ -18,6 +18,6 @@ jobs:
     - name: Fetch latest user-agents
       run: python scripts/generate_user_agents.py -o data/top_user_agents.csv -s
     - name: Commit & Push changes
-      uses: actions-js/push@main
+      uses: actions-js/push@master
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
