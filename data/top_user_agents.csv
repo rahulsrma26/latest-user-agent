@@ -2,7 +2,7 @@ browser,ua,first,last
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36",2022-08-10 12:40:00,2024-04-15 03:07:00
 Chrome,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",2022-08-10 09:18:00,2024-04-13 04:33:00
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",2022-08-09 04:46:00,2023-08-09 08:30:00
-Chrome,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36",2022-08-10 11:50:00,2024-04-15 03:04:00
+Chrome,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36",2022-08-10 11:50:00,2024-04-19 08:33:00
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",2022-03-30 10:36:00,2024-02-05 07:50:00
 Chrome,"Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2919.83 Safari/537.36",2020-03-17 11:33:00,2024-03-24 08:33:00
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2866.71 Safari/537.36",2020-03-17 08:34:00,2024-03-07 01:52:00
@@ -10,9 +10,9 @@ Chrome,"Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTM
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2762.73 Safari/537.36",2020-03-16 07:35:00,2024-03-07 01:08:00
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2656.18 Safari/537.36",2020-04-11 04:35:00,2023-12-26 11:14:00
 Chrome,Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.155 Safari/537.36,2018-10-24 01:30:00,2024-02-21 12:44:00
-Chrome,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",2014-11-23 10:31:00,2024-04-15 01:13:00
+Chrome,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",2014-11-23 10:31:00,2024-04-16 10:42:00
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36",2014-11-23 04:50:00,2024-02-24 02:26:00
-Chrome,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36",2014-11-22 07:28:00,2024-02-24 09:32:00
+Chrome,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36",2014-11-22 07:28:00,2024-04-21 09:57:00
 Chrome,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36",2014-11-22 02:18:00,2024-02-22 04:44:00
 Chrome,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36",2014-11-23 12:42:00,2024-03-12 08:21:00
 Chrome,"Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36",2014-11-22 02:14:00,2024-01-24 05:54:00
@@ -131,7 +131,7 @@ Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.0; hu-HU) AppleWebKit/533.19.4 (KH
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-03-13 07:52:00,2021-07-27 09:44:00
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.0; de-DE) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-03-13 07:49:00,2022-11-16 09:07:00
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 5.1; ru-RU) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-03-09 11:58:00,2023-12-08 03:38:00
-Safari,"Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-03-13 05:19:00,2023-11-11 09:00:00
+Safari,"Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-03-13 05:19:00,2024-04-22 10:23:00
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-03-13 07:39:00,2022-08-17 01:07:00
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-03-13 07:25:00,2023-09-15 10:37:00
 Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-01-24 10:36:00,2023-09-15 10:37:00
@@ -139,7 +139,7 @@ Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; fr-ch) AppleWebKit/533
 Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; de-de) AppleWebKit/534.15+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-01-06 03:03:00,2023-09-15 10:37:00
 Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; ar) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-03-13 07:11:00,2020-12-23 02:56:00
 Safari,"Mozilla/5.0 (Android 2.2; Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4",2011-01-31 07:11:00,2023-10-04 08:42:00
-Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-HK) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",2010-10-11 04:42:00,2023-04-02 07:28:00
+Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-HK) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",2010-10-11 04:42:00,2024-04-17 12:37:00
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",2010-11-15 02:13:00,2023-08-28 03:30:00
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.0; tr-TR) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",2010-10-10 07:12:00,2023-04-19 08:34:00
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.0; nb-NO) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",2010-10-10 07:11:00,2023-06-06 05:23:00
@@ -148,7 +148,7 @@ Safari,"Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-TW) AppleWebKit/533.19.4 (KH
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 5.1; ru-RU) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",2010-11-08 04:24:00,2021-11-18 01:47:00
 Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; zh-cn) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",2010-10-10 06:39:00,2020-12-23 02:59:00
 Safari,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_3 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5",2011-05-13 06:00:00,2024-03-06 07:08:00
-Safari,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_1 like Mac OS X; zh-cn) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5",2011-03-28 12:44:00,2023-07-17 03:23:00
+Safari,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_1 like Mac OS X; zh-cn) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5",2011-03-28 12:44:00,2024-04-22 10:26:00
 Safari,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; he-il) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5",2011-03-13 08:27:00,2023-12-19 05:37:00
 Safari,"Mozilla/5.0 (iPhone; U; ru; CPU iPhone OS 4_2_1 like Mac OS X; ru) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5",2012-10-07 12:26:00,2024-02-16 01:42:00
 Safari,"Mozilla/5.0 (iPhone; U; ru; CPU iPhone OS 4_2_1 like Mac OS X; fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5",2012-10-07 12:25:00,2022-10-20 02:55:00
@@ -168,7 +168,7 @@ Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.1; es-ES) AppleWebKit/533.18.1 (KH
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0 Safari/533.16",2010-10-10 07:13:00,2020-09-08 05:03:00
 Safari,"Mozilla/5.0 (Windows; U; Windows NT 6.0; ja-JP) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",2010-06-13 11:31:00,2018-07-21 08:55:00
 Safari,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; ja-jp) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",2010-06-13 10:56:00,2023-10-21 09:53:00
-Safari,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; fr) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",2010-06-13 10:54:00,2022-11-11 04:18:00
+Safari,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; fr) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",2010-06-13 10:54:00,2024-04-16 03:13:00
 Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; zh-cn) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",2010-06-13 10:52:00,2023-06-01 01:05:00
 Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; ru-ru) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",2010-06-13 10:52:00,2021-01-21 03:21:00
 Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; ko-kr) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",2010-06-13 10:52:00,2023-03-07 04:38:00
@@ -291,7 +291,7 @@ Firefox,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.16) Gecko/20120
 Firefox,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120427 Firefox/15.0a1,2012-04-28 12:47:00,2023-07-16 12:09:00
 Firefox,Mozilla/5.0 (Windows NT 6.2; WOW64; rv:15.0) Gecko/20120910144328 Firefox/15.0.2,2012-10-02 07:49:00,2023-11-10 04:14:00
 Edge,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19582",2020-04-02 11:11:00,2024-04-07 09:49:00
-Edge,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19577",2020-04-02 12:23:00,2023-12-26 06:12:00
+Edge,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19577",2020-04-02 12:23:00,2024-04-20 06:15:00
 Edge,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17720",2022-03-11 08:49:00,2024-04-06 05:42:00
 Edge,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.8810.3391 Safari/537.36 Edge/18.14383",2022-03-11 07:17:00,2024-04-07 09:26:00
 Edge,"Mozilla/5.0 (X11) AppleWebKit/62.41 (KHTML, like Gecko) Edge/17.10859 Safari/452.6",2020-03-25 08:01:00,2023-12-17 11:57:00
@@ -302,7 +302,7 @@ Edge,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Ge
 Opera,Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16.2,2020-03-08 03:51:00,2024-02-17 06:13:00
 Opera,Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16,2014-11-23 04:57:00,2024-03-30 10:06:00
 Opera,Opera/9.80 (Macintosh; Intel Mac OS X 10.14.1) Presto/2.12.388 Version/12.16,2018-11-01 10:29:00,2022-04-15 06:30:00
-Opera,Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14,2013-02-12 09:29:00,2024-04-14 03:47:00
+Opera,Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14,2013-02-12 09:29:00,2024-04-22 08:11:00
 Opera,Mozilla/5.0 (Windows NT 6.0; rv:2.0) Gecko/20100101 Firefox/4.0 Opera 12.14,2013-02-12 09:25:00,2023-03-02 12:56:00
 Opera,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0) Opera 12.14,2013-02-12 09:28:00,2021-10-13 04:45:00
 Opera,Opera/12.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.02,2012-09-12 03:28:00,2024-03-04 09:32:00
@@ -317,7 +317,7 @@ Opera,Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; fr) Presto/2.9.168 Versio
 Opera,Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; de) Presto/2.9.168 Version/11.52,2011-11-04 02:08:00,2023-07-16 01:06:00
 Opera,Opera/9.80 (Windows NT 5.1; U; en) Presto/2.9.168 Version/11.51,2011-08-28 05:58:00,2023-05-24 07:12:00
 Opera,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; de) Opera 11.51,2011-09-25 10:38:00,2024-03-31 07:17:00
-Opera,Opera/9.80 (X11; Linux x86_64; U; fr) Presto/2.9.168 Version/11.50,2011-07-18 12:10:00,2023-08-28 03:31:00
+Opera,Opera/9.80 (X11; Linux x86_64; U; fr) Presto/2.9.168 Version/11.50,2011-07-18 12:10:00,2024-04-21 09:48:00
 Opera,Opera/9.80 (X11; Linux i686; U; hu) Presto/2.9.168 Version/11.50,2011-08-27 05:09:00,2020-12-23 02:49:00
 Opera,Opera/9.80 (X11; Linux i686; U; ru) Presto/2.8.131 Version/11.11,2011-06-15 11:16:00,2020-12-23 02:42:00
 Opera,Opera/9.80 (X11; Linux i686; U; es-ES) Presto/2.8.131 Version/11.11,2011-06-13 04:46:00,2024-03-24 01:43:00
