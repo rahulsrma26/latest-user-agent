@@ -28,7 +28,7 @@ Chrome,Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko)
 Chrome,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",2014-11-23 10:31:00,2026-05-04 07:09:00
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36",2014-11-23 04:50:00,2026-02-08 03:08:00
 Chrome,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36",2014-11-22 07:28:00,2025-12-15 10:19:00
-Chrome,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36",2014-11-22 02:18:00,2026-05-01 05:54:00
+Chrome,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36",2014-11-22 02:18:00,2026-07-13 07:59:00
 Chrome,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36",2014-11-23 12:42:00,2026-06-07 04:58:00
 Chrome,"Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36",2014-11-22 02:14:00,2026-04-30 02:43:00
 Chrome,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36",2014-11-21 03:22:00,2026-02-14 05:34:00
@@ -43,8 +43,8 @@ Chrome,"Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) C
 Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36",2014-04-20 12:12:00,2026-06-30 06:26:00
 Chrome,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3319.102 Safari/537.36",2014-11-23 03:37:00,2026-07-03 02:59:00
 Chrome,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36",2014-11-23 03:18:00,2026-06-28 09:35:00
-Chrome,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2117.157 Safari/537.36",2014-11-23 01:05:00,2026-05-01 08:56:00
-Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36",2014-04-20 02:12:00,2026-02-09 04:58:00
+Chrome,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2117.157 Safari/537.36",2014-11-23 01:05:00,2026-07-11 03:38:00
+Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36",2014-04-20 02:12:00,2026-07-08 01:32:00
 Chrome,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36",2014-11-23 09:41:00,2026-04-07 08:02:00
 Chrome,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/4E423F",2014-11-22 02:20:00,2026-03-18 11:38:00
 Chrome,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36 Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10",2014-04-20 03:48:00,2026-01-13 07:27:00
@@ -73,7 +73,7 @@ Chrome,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 Chrome,"Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36",2014-06-14 04:12:00,2026-02-28 09:13:00
 Chrome,"Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36",2013-06-26 05:51:00,2026-06-03 12:13:00
 Chrome,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17",2013-02-12 09:41:00,2025-08-21 01:19:00
-Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17",2012-10-28 09:35:00,2026-03-13 03:44:00
+Chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17",2012-10-28 09:35:00,2026-07-11 10:30:00
 Chrome,"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.15 (KHTML, like Gecko) Chrome/24.0.1295.0 Safari/537.15",2012-10-15 01:31:00,2026-05-04 12:49:00
 Chrome,"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/24.0.1292.0 Safari/537.14",2012-10-11 07:55:00,2026-04-05 02:49:00
 Chrome,"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/24.0.1290.1 Safari/537.13",2012-10-12 04:36:00,2025-12-22 06:15:00
@@ -192,11 +192,11 @@ Safari,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2; nb-no) AppleWebKit/533
 Safari,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; tr) AppleWebKit/528.4+ (KHTML, like Gecko) Version/4.0dp1 Safari/526.11.2",2009-04-29 08:05:00,2026-05-07 02:57:00
 Safari,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.4+ (KHTML, like Gecko) Version/4.0dp1 Safari/526.11.2",2008-09-11 09:55:00,2025-04-19 06:01:00
 Safari,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; de) AppleWebKit/528.4+ (KHTML, like Gecko) Version/4.0dp1 Safari/526.11.2",2009-04-07 01:30:00,2025-11-20 12:57:00
-Firefox,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0,2026-01-07 07:49:00,2026-07-07 12:31:00
+Firefox,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0,2026-01-07 07:49:00,2026-07-13 07:32:00
 Firefox,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0,2025-03-06 04:54:00,2026-07-01 03:11:00
-Firefox,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0,2025-04-25 08:38:00,2026-06-17 07:48:00
-Firefox,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0,2025-03-05 08:10:00,2026-07-06 07:48:00
-Firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0; rv:133.0) Gecko/20100101 Firefox/133.0,2026-01-08 10:18:00,2026-06-24 11:25:00
+Firefox,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0,2025-04-25 08:38:00,2026-07-07 08:58:00
+Firefox,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0,2025-03-05 08:10:00,2026-07-11 06:17:00
+Firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0; rv:133.0) Gecko/20100101 Firefox/133.0,2026-01-08 10:18:00,2026-07-10 08:34:00
 Firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_3; rv:132.0) Gecko/20100101 Firefox/132.0,2026-01-09 10:40:00,2026-01-09 10:40:00
 Firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 15_5_2; rv:131.0) Gecko/20100101 Firefox/131.0,2026-01-09 07:19:00,2026-01-09 07:19:00
 Firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0_9; rv:131.0) Gecko/20100101 Firefox/131.0,2026-01-09 09:39:00,2026-01-09 09:39:00
